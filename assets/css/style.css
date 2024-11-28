@@ -99,7 +99,7 @@ footer{
 footer .container{
     display:flex;
     justify-content:space-between;
-    color: rgb(211, 210, 210);
+    color: rgb(128, 126, 126);
     padding: 30px;
     font-weight: 300;
 }
